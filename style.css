@@ -115,3 +115,8 @@ form label, form legend {
 .checkbox { 
     margin: 20px 0;
 }
+
+.enviar { 
+    width: 40%;
+    padding: 15px 0;
+}
