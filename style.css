@@ -159,6 +159,7 @@ td, th {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+    clear: left;
 }
 
 .principal p { 
@@ -175,6 +176,7 @@ td, th {
 
 .utensilios { 
     width: 150px;
+    float: left;
 }
 
 .imagembeneficios { 
