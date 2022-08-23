@@ -95,8 +95,7 @@ footer {
 }
 
 main { 
-    width: 940px;
-    margin: 0 auto;
+    
 }
 
 form { 
@@ -169,6 +168,8 @@ td, th {
 .principal { 
     padding: 3em 0;
     background: FEFEFE;
+    width: 940px;
+    margin: 0 auto;
 }
 
 .principal p { 
@@ -191,6 +192,8 @@ td, th {
 
 .mapa { 
     padding: 3em 0;
+    width: 940px;
+    margin: 0 auto;
 }
 
 .mapa p { 
