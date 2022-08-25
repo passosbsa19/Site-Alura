@@ -262,7 +262,11 @@ td, th {
         position: static;
     }
 
+    .lista-beneficios, .imagem-beneficios { 
+        width: 100%;
+    } 
 }
+
 
 
 
