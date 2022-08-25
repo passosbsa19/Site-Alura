@@ -235,6 +235,7 @@ td, th {
 
 .imagem-beneficios { 
     width: 60%;
+    opacity: 0.7;
 }
 
 .video { 
